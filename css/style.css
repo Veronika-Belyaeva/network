@@ -1,0 +1,12 @@
+.avatar {
+  object-fit: cover;
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+}
+.avatar2 {
+  object-fit: cover;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
